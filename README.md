@@ -1,7 +1,6 @@
 # BugTracker-Monster
 
 Sitio oficial para reportar errores dentro de Monster-WoW 4.3.4.
-Aporte realizado por el Sr. Dennis y el Sr. Albert.
 
 ## Guía de uso:
 
